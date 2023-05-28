@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Samuel.
 - 🏫 I stduy Computer Science at Northeastern University.
-- 👀 I’m interested in Web Development, Software Development, and Artificial Intelligence.
-- 🌱 I’m currently learning Swift, JavaScript(ES6+) and Web Dev frameworks (MEAN, MERN).
+- 👀 I’m interested in Web Development, Software Development, CV, NLP.
 - 🎵 Besides coding, I also love music, sci-fi movies, and cooking.
 - 📫 Nice to meet you and reach me at Samuel.J032@iCloud.com
 
