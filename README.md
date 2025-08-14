@@ -56,17 +56,21 @@
 
 ### 📊 GitHub Stats
 
+<div>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true" alt="Samuel's GitHub stats" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true" alt="Samuel's GitHub stats" />
 </picture>
+</div>
 
+<div>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact" alt="Top Languages" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact" alt="Top Languages" />
 </picture>
+</div>
 
 ---
 
