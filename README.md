@@ -13,7 +13,7 @@
 - 🏫 MS in Computer Science @ **University of Southern California**
 - 🎓 Alumnus of **Northeastern University**
 - 🌐 Member of **Association for Computing Machinery**
-- 👀 Expertose: Full Stack Development, System Performance & Optimization, AI Integration
+- 👀 Expertise: Full Stack Development, System Performance & Optimization, AI Integration
 - 🎵 Hobbies: Music, fitness, travel, cooking
 - 🤝 Causes: Education, social issues, technology advancement
 
