@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Samuel
 
-👨🏻‍💻 **Full Stack Software Engineer** with 3+ years of experience building **secure, scalable backend systems** and **high-performance, user-friendly frontend applications**. I design robust, efficient software that leverages **cloud-native infrastructure**, **AI-powered automation**, and **enterprise integrations** to deliver **intuitive interfaces** and tangible business impact.
+👨🏻‍💻 **Full Stack Software Engineer** with 3+ years of experience building **secure, scalable backend systems** and **high-performance, user-friendly frontend applications**. Designed robust, efficient software that leverages **cloud-native infrastructure**, **AI-powered automation**, and **enterprise integrations** to deliver **intuitive interfaces** and tangible business impact.
 
-🚀 Passionate about **turning complex problems into seamless digital experiences**, I combine **smart engineering**, **AI-driven innovation**, and **human-centered design** to build **reliable**, **high-quality** solutions that **work flawlessly** and **feel effortless**.
+🚀 Passionate about **turning complex problems into seamless digital experiences**, combining **smart engineering**, **AI-driven innovation**, and **human-centered design** to build **reliable**, **high-quality** solutions that **work flawlessly** and **feel effortless**.
 
 💡 **Driven by curiosity** • **Collaborative problem-solver** • **Always exploring cutting-edge tech**
 
