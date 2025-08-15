@@ -14,8 +14,8 @@
 - 🎓 Alumnus of **Northeastern University**
 - 🌐 Member of **Association for Computing Machinery**
 - 👀 Expertise: Full Stack Development, System Performance & Optimization, AI Integration
-- 🎵 Hobbies: Music, fitness, travel, cooking
 - 🤝 Causes: Education, social issues, technology advancement
+- 🎵 Hobbies: Music, fitness, travel, cooking
 
 ---
 
