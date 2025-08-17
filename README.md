@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Samuel
+# 👋 Hi, I’m Samuel <img align="right" align="center" src="https://komarev.com/ghpvc/?username=samuel032khoury" alt="Samuel's GitHub Profile Views" />
 
 👨🏻‍💻 **Full Stack Software Engineer** with 3+ years of experience building **secure, scalable backend systems** and **high-performance, user-friendly frontend applications**. Designed robust, efficient software that leverages **cloud-native infrastructure**, **AI-powered automation**, and **enterprise integrations** to deliver **intuitive interfaces** and **tangible business impact**.
 
