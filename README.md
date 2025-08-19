@@ -50,7 +50,7 @@
 
 [![Email](https://img.shields.io/badge/Email-samuelji%40acm.org-blue)](mailto:samuelji@acm.org)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://linkedin.com/in/samuel-x-ji)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://samuelji.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://samuelji.is-a.dev)
 
 
 
