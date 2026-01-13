@@ -52,28 +52,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](http://linkedin.com/in/samuel-x-ji)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange)](https://samuelji.is-a.dev)
 
-
-
----
-
-### 📊 GitHub Stats
-
-<div>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel032khoury&show_icons=true" alt="Samuel's GitHub stats" />
-</picture>
-</div>
-
-<div>
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=tokyonight" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel032khoury&layout=compact" alt="Top Languages" />
-</picture>
-</div>
-
 ---
 
 > “The people who are crazy enough to think they can change the world are the ones who do.”
