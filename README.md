@@ -25,7 +25,6 @@
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TanStack](https://img.shields.io/badge/TanStack-FF4154?logo=reactquery&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
@@ -33,7 +32,6 @@
 ![Clerk](https://img.shields.io/badge/-Clerk-6C47FF?logo=clerk&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?logo=tailwind-css&logoColor=38B2AC)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)
-![Framer](https://img.shields.io/badge/Framer-black?logo=framer&logoColor=blue)
 
 
 **Backend** 
@@ -43,8 +41,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=springboot&logoColor=white)
 ![Fast](https://img.shields.io/badge/FastAPI-005571?logo=fastapi)
-![Node](https://img.shields.io/badge/Node-339933?logo=Node.js&logoColor=white)
 ![Hono](https://img.shields.io/badge/Hono-E36002?logo=hono&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
