@@ -10,8 +10,8 @@
 
 ### 🎓 About Me
 
-- 🏫 MS in Computer Science @ **University of Southern California**
-- 🎓 Alumnus of **Northeastern University**
+- ✌️ MS in Computer Science @ **University of Southern California**
+- 🐾 BS in Computer Science @ **Northeastern University**
 - 🌐 Member of **Association for Computing Machinery**
 - 👀 Expertise: Full Stack Development, System Performance & Optimization, AI Integration
 - 🤝 Causes: Education, social issues, technology advancement
